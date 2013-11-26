@@ -1,0 +1,1 @@
+(function(){dust.register("test",body_0);function body_0(chk,ctx){return chk.write("This is a test message ").reference(ctx._get(false, ["name"]),ctx,"h");}return body_0;})();

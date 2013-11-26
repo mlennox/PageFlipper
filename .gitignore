@@ -1,0 +1,12 @@
+# built application files
+platform/*
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# project files
+.classpath
+.project
+
+# Sensitive files
+auth.js
